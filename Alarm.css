@@ -1,0 +1,37 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff;
+    /* color: #000; */
+    text-align: center;
+}
+#big {
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    border: 1px solid salmon;
+    background-color: blue;
+   
+}
+
+#smallcont {
+    width: 200px;
+    height: 120px;
+    border-radius: 15px;
+    border: 1px solid salmon;
+    /* background-color: green; */
+    background-color: rgb(240, 240, 240);
+    color: goldenrod;
+
+    margin: auto;
+}
+#setty{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: grey;
+    margin-top: 20px;
+}
